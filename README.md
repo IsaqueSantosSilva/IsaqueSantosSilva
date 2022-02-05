@@ -1,7 +1,11 @@
+### :six_pointed_star: Entrar em Contato
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ### :telephone_receiver: Entrar em Contato
 
 
-### :flashlight: Status
+### :chart: Status Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/github-readme-stats)
 ![IsaqueSantosSilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues&show_icons=true&theme=radical)
