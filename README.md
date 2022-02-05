@@ -5,7 +5,7 @@
 
 
 
-### Principais Repositórios
+### :pushpin: Principais Repositórios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MyPortofolio)](https://github.com/IsaqueSantosSilva/MyPortofolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=Rick-And-Morty-Wiki)](https://github.com/IsaqueSantosSilva/Rick-And-Morty-Wiki)
