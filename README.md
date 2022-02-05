@@ -3,7 +3,7 @@
 
 ### :flashlight: Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout=compact)](https://github.com/IsaqueSantosSilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout)](https://github.com/IsaqueSantosSilva/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues)
 
 
