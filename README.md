@@ -7,4 +7,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MyPortofolio)](https://github.com/IsaqueSantosSilva/MyPortofolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=Rick-And-Morty-Wiki)](https://github.com/IsaqueSantosSilva/Rick-And-Morty-Wiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MusicNation)](https://github.com/IsaqueSantosSilva/MusicNation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=Shadow-of-the-Colossos-NodeJS-API)](https://github.com/IsaqueSantosSilva/Shadow-of-the-Colossos-NodeJS-API)
 
