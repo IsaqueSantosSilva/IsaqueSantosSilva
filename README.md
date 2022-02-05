@@ -4,7 +4,9 @@
 ### :flashlight: Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout)](https://github.com/IsaqueSantosSilva/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues)
+![IsaqueSantosSilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
@@ -15,4 +17,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MusicNation)](https://github.com/IsaqueSantosSilva/MusicNation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=Shadow-of-the-Colossos-NodeJS-API)](https://github.com/IsaqueSantosSilva/Shadow-of-the-Colossos-NodeJS-API)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
