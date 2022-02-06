@@ -9,6 +9,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+
 ### :telephone_receiver: Entrar em Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-silva-63843a202/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=558296492140&text=sua%20mensagem)
@@ -16,11 +17,13 @@
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/IsaacSSilva)
 
 
+
 ### :chart: Status Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout&hide=php&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/github-readme-stats)
 &nbsp;
 &nbsp;
 ![IsaqueSantosSilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues&show_icons=true&theme=radical)
+
 
 
 ### :pushpin: Principais Repositórios
