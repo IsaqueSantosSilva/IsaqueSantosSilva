@@ -9,6 +9,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+</br>
+
 ### :telephone_receiver: Entrar em Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-silva-63843a202/)
@@ -16,6 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://isaquesilva.infinityfreeapp.com/myPortofolio/)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/IsaacSSilva)
 
+</br>
 
 ### :chart: Status Github
 
@@ -23,12 +26,13 @@
 ![IsaqueSantosSilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues&show_icons=true&theme=radical)
 
 
-
+</br>
 
 ### :pushpin: Principais Repositórios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MyPortofolio&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/MyPortofolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=Rick-And-Morty-Wiki&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/Rick-And-Morty-Wiki)
+
 
 </br>
 
