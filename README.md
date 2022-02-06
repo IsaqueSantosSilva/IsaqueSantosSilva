@@ -18,6 +18,8 @@
 
 ### :chart: Status Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout&hide=php&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/github-readme-stats)
+&nbsp;
+&nbsp;
 ![IsaqueSantosSilva's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSantosSilva&hide=issues&show_icons=true&theme=radical)
 
 
