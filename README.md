@@ -35,7 +35,7 @@
 
 
 ## :pushpin: Principais Repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MyPortofolio&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/MyPortofolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MyPortofolio&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/Portfolio-Pessoal)
 &nbsp;
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=Rick-And-Morty-Wiki&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/Rick-And-Morty-Wiki)
