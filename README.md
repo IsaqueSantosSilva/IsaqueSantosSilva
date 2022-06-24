@@ -30,7 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueSantosSilva&layout&hide=php&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/github-readme-stats)
 &nbsp;
 &nbsp;
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317oaq5bsxi246p4gl2gp547zojm)
 
 ## :pushpin: Principais Repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaqueSantosSilva&repo=MyPortofolio&show_icons=true&theme=radical)](https://github.com/IsaqueSantosSilva/Portfolio-Pessoal)
